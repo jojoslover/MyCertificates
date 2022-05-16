@@ -1,15 +1,15 @@
 # مولد الشهادات
-اداة تسمح لك بتوليد شهادات كشهادات الكورسات، شهادات اتمام كورس معين، شهادة اتمام موضوع...الخ وبصورة سريعة جداً ، بجودة عالية.
-هذا ليس كل شيء فهذه الاداة تولد لك الشهادات وبدون حد يذكر ، حيث يمكنك توليد اكثر من 500 شهادة بضغطة زر واحدة.
-وهل هذا كل شيء؟ ؛) بالتأكيد كلا ليس كل شيء ، يمكنك الكتابة باللغات العربية والهندية والإنجليزية وغيرها :P
-هل هذا كل شيء ؟! بالطبع لا، فهناك ميزة اضافية وهي ارسال الشهادات بصورة مباشرة لأيميلات الطلاب او المشاركين في دوراتك وندواتك
-هي مفتوحة المصدر ويمكن التعديل عليها حسب الرغبة 
-مكتوبة مع <3 بلغة بايثون 
+اداة تسمح لك بتوليد الشهادات ، كشهادات الكورسات، شهادات اتمام كورس معين، شهادة اتمام موضوع...الخ وبصورة سريعة جداً وبجودة عالية. <br/>
+هذا ليس كل شيء فهذه الاداة تولد لك الشهادات وبدون حد يذكر ، حيث يمكنك توليد اكثر من 500 شهادة بضغطة زر واحدة. <br/>
+هل هذا كل شيء؟ ؛) بالتأكيد كلا ليس كل شيء ، من خلال هذه الاداة يمكنك الكتابة باللغات العربية والهندية والإنجليزية وغيرها  <br/>
+وهل هذا كل شيء ؟! بالطبع لا، فهناك ميزة اضافية وهي ارسال الشهادات بصورة مباشرة لأيميلات الطلاب او المشاركين في دوراتك وندواتك <br/>
+هي مفتوحة المصدر ويمكن التعديل عليها حسب الرغبة <br/> 
+مكتوبة مع <3 بلغة بايثون <br/> 
 # MyCertificates
 Certificates Generator A tool that allows you to generate certificates such as course certificates, certificates of completing a specific course, certificate of completion of a topic ... etc. Very quickly, with high quality. 
 This is not all, this tool generates certificates for you without a limit, where you can generate more than 500 certificates with the click of a button.
 Is that all ?! Of course not, there is an additional advantage which is sending certificates directly to the emails of students or participants in your courses and seminars 
-And is that all ? ;) its not all, you can write in arabic, hindi, english and more :P
+And is that all ? ;) its not all, you can write in arabic, hindi, english and more
 It is open source and can be modified as desired.
 Written with &lt;3 in Python.
 
