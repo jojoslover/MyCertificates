@@ -29,6 +29,8 @@
 <li>اذا كنت تروم ارسال هذه الشهادات عن طريق خدمة الجيميل 
 <a href='https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp' alt='stackoverflow'>فيجب اتباع الرابط التالي لمزيد من المعلومات</a> </li>
 
+
+<a href='https://www.google.com' alt='google'>Google</a>
 </div>
 
 # MyCertificates
